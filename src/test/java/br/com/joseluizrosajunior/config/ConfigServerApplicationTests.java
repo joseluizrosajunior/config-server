@@ -1,4 +1,4 @@
-package br.com.alura.microservice.config;
+package br.com.joseluizrosajunior.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
