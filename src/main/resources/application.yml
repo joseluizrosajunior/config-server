@@ -10,4 +10,4 @@ spring:
             enabled: false
         git:
           uri: https://github.com/joseluizcri/microservices-repo/
-          search-paths: oauth
+          search-paths: oauth, maintence
